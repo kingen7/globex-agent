@@ -1,4 +1,3 @@
-# syntax=docker/dockerfile:1
 # ---- 构建阶段：uv 安装依赖到独立虚拟环境 ----
 FROM python:3.11-slim AS builder
 

@@ -243,3 +243,5 @@ def create_chat_model(
         bus=bus,
         **common,
     )
+
+
